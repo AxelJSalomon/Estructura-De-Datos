@@ -1,0 +1,15 @@
+function Queue(){
+    this.arr = []   
+}
+
+
+Queue.prototype.enqueue = function(){
+    /*this.arr.enqueue()*/
+}
+
+Queue.prototype.dequeue = function(){
+    /*this.arr.dequeue()*/
+}
+Queue.prototype.size = function(){
+   /* this.arr.size()*/
+}
